@@ -1,0 +1,4 @@
+customer_type,sold_items,returned_items,return_rate_pct
+Returning,3959,536,13.54
+Loyal,3038,407,13.4
+New,2389,315,13.19

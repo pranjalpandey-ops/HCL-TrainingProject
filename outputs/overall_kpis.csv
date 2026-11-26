@@ -1,0 +1,2 @@
+total_completed_orders,returned_orders,order_return_rate_pct,total_order_items,returned_items,item_return_rate_pct,total_refunds,sales_before_refunds,net_sales_after_refunds
+4672,1153,24.68,9386,1258,13.4,29781480.35,214716381.97,184934901.62
